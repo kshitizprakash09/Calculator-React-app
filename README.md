@@ -65,8 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 - The calculator design and functionality are inspired by various online calculator apps.
 - Special thanks to the React.js community for providing an excellent framework for building user interfaces.
 
-## Contact
 
-If you have any questions or need further assistance, feel free to contact me at (mailto:kshitizprakash09@gmail.com.com).
 
 Happy calculating!
